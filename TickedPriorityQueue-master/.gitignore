@@ -1,0 +1,10 @@
+test-results
+obj/
+TickedPriorityQueue.userprefs
+/TickedPriorityQueue/test-results
+/TickedPriorityQueue/TickedPriorityQueue.pidb
+/TickedPriorityQueue/bin
+/TickedPriorityQueue Unit Tests/bin
+/TickedPriorityQueue.userprefs
+/TickedPriorityQueue Unit Tests/test-results
+/TickedPriorityQueue Unit Tests/TickedPriorityQueue Unit Tests.pidb
